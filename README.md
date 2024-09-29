@@ -45,7 +45,7 @@ In addition to my software engineering experience, I am skilled in **integrating
 
 ### What I'm Up To
 
-I'm currently seeking opportunities as a **remote Golang developer**. If you're looking for someone with my background or want to chat about tech, feel free to reach out!
+I'm currently seeking opportunities as a **remote Golang developer**. I'm open to remote opportunities within the time zones UTC+3 to UTC+8. If you're looking for someone with my background or want to chat about tech, feel free to reach out!
 
 ### Contact
 
