@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am a software engineer with a passion for building things. Since 2018, I've worked as a developer, focusing on creating web applications, APIs, and payment gateways. I enjoy learning new technologies and applying them to solve complex problems. I have successfully served as the technical manager for two start-up companies, where I built and led technical teams, creating a highly flexible continuous delivery process from scratch.
+I am a software engineer with a passion for building things. Since 2018, I've worked as a developer, focusing on creating web applications, APIs, and payment gateways. I enjoy learning new technologies and applying them to solve complex problems. I have successfully served as the technical manager for three start-up companies, where I built and led technical teams, creating a highly flexible continuous delivery process from scratch.
 
 In addition to my software engineering experience, I am skilled in **integrating Google Ads** into various systems and workflows.
 
@@ -45,7 +45,7 @@ In addition to my software engineering experience, I am skilled in **integrating
 
 ### What I'm Up To
 
-I'm currently seeking opportunities as a **remote Golang developer**. I'm open to remote opportunities within the time zones UTC+3 to UTC+8. If you're looking for someone with my background or want to chat about tech, feel free to reach out!
+I'm currently seeking a job as **remote Golang developer** or **technical team manager**. I'm open to remote opportunities within the time zones **UTC+3 to UTC+8**. If you're looking for someone with my background or want to chat about tech, feel free to reach out!
 
 ### Contact
 
